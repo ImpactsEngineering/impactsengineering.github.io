@@ -4,7 +4,7 @@ name: Impacts of Engineering
 description: An undergraduate course covering important introductory aspects of engineering.
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://impactsengineering.github.io
+url: https://engrimpacts.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
