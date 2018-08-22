@@ -30,7 +30,7 @@ Your kit includes a 9V battery with an adapter to use with the barrel jack on th
 
 ## Motors
 
-Motors are some of the more commonly used components in mechatronic projects. There are three main types of motors that we'll focus on here: DC motor, servo motor, and stepper motor.
+Motors are some of the more commonly used components in mechatronic projects. There are three main types of motors that we'll focus on here: DC motor, servo motor, and stepper motor. For further reading on motors, see these [notes on motors](http://www.tigoe.com/pcomp/code/circuits/motors/).
 
 ### DC motor
 
@@ -55,6 +55,3 @@ A [stepper motor is a motor that provides more precision in rotation](http://www
 ![Photo of a stepper motor](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nema_17_Stepper_Motor.jpg/320px-Nema_17_Stepper_Motor.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyqwLiowZiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-For further reading on motors, see these [notes on motors](http://www.tigoe.com/pcomp/code/circuits/motors/).
