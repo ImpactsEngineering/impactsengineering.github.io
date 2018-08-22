@@ -6,7 +6,7 @@ permalink: lab/lab-overview
 
 # Lab Overview
 
-The lab portion of this course involves two primary components, learning mechatronics and programming using the [Arduino platform](https://www.arduino.cc/en/Guide/Introduction) and a design project which also involves using the Arduino platform. Note that there are a lot of great tutorials for the Arduino online. A few specifics that we'd like you to complete are linked below. Here are some links to a variety of others: [Arduino.cc](https://www.arduino.cc/en/Tutorial/BuiltInExamples) | [ARDX](http://www.oomlout.com/a/products/ardx/) | [Smraza](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q)
+The lab portion of this course involves two primary components, learning mechatronics and programming using the [Arduino platform](https://www.arduino.cc/en/Guide/Introduction) and a design project which also involves using the Arduino platform. Note that there are a lot of great tutorials for the Arduino online. A few specifics that we'd like you to complete are linked below. Here are some links to a variety of others: [Arduino.cc](https://www.arduino.cc/en/Tutorial/BuiltInExamples), [ARDX](http://www.oomlout.com/a/products/ardx/), [Smraza](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q)
 
 ## Phase 1: Introduction (approximately 3 weeks)
 
