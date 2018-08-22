@@ -36,7 +36,25 @@ Motors are some of the more commonly used components in mechatronic projects. Th
 
 A [DC motor is a simple motor](https://electronics.howstuffworks.com/motor.htm) that uses electrical current running through windings of wire to generate a magnetic field. By introducing a permanent magnet and alternating the direction of the electrical current, the motor can transform electrical energy into rotational motion.
 
+DC motors are good for providing high speed rotation but not very high torque. To get higher torque from a DC motor typically requires using a gear reducer which reduces the rotational speed and increases the torque. It is also difficult to control a DC motor to a specific rotational position. Therefore, a DC motor is most useful when you need to spin something quickly but not drive it to a specific position.
+
 ![DC motor](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DC_Motor.jpg/320px-DC_Motor.jpg)
 
 ### Servo motor
 
+A [basic servo motor](https://www.sciencebuddies.org/science-fair-projects/references/introduction-to-servo-motors) consists of a DC motor, a gear reducer, a potentiometer, and some control electronics. The embedded DC motor provides the rotational motion, the gear reducer slows down the rotational speed, and the control electronics allow you to get some positional control as feedback is provided by the potentiometer.
+
+![Photo of a servo motor](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Two_hobby_servo_motors.jpg/320px-Two_hobby_servo_motors.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8atdmEqZsc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Stepper motor
+
+A [stepper motor is a motor that provides more precision in rotation](http://www.tigoe.com/pcomp/code/circuits/motors/stepper-motors/) than a DC motor or servo motor. Control of a stepper motor is a little more difficult because there is a specific pattern of electrical pulses necessary to make the motor rotate. Fortunately, there are [provided libraries](https://www.arduino.cc/en/Reference/Stepper) which make this easy to implement. Stepper motors generally do not rotate as fast as DC motors, but they provide good positional control and high torque for applications which require these things. On the downside, they are significantly more expensive than the alternatives.
+
+![Photo of a stepper motor](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nema_17_Stepper_Motor.jpg/320px-Nema_17_Stepper_Motor.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eyqwLiowZiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+For further reading on motors, see these [notes on motors](http://www.tigoe.com/pcomp/code/circuits/motors/).
