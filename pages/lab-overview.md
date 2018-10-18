@@ -13,10 +13,10 @@ The lab portion of this course involves two primary components, learning mechatr
 The first few weeks of lab involve getting to know the Arduino platform through a series of lab activities:
 - Part 0: [Getting Started](/lab/getting-started)
 - Part 1: [Blink an LED](https://www.arduino.cc/en/Tutorial/Blink)
-- Part 2: [LED Array](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!J04wWLwA)
-- Part 3: [Potentiometer and Servo](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!Z4AXAD6S)
-- Part 4: [Stepper Motor](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!98JRmZJK)
-- Part 5: [Ultrasonic Range Sensor](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!0o5GjQbR)
+- Part 2: [LED Array](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!M9ZEBC5b)
+- Part 3: [Potentiometer and Servo](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!9pYQiYQY)
+- Part 4: [Stepper Motor](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!whZwiS5T)
+- Part 5: [Ultrasonic Range Sensor](https://mega.nz/#F!F1gj0Y7L!vrf91AD2b5OowYc43dSR7Q!c0Y2DC5I)
 - Part 6: [Design a custom circuit](/lab/custom-circuit)
 
 For each of Parts 1-5, please make sure you do the following:
