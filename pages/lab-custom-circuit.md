@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Overview
+title: Custom Circuit
 permalink: lab/custom-circuit
 ---
 
