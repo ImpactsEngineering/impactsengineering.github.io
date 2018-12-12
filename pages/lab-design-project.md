@@ -24,10 +24,10 @@ Activities of daily living (ADLs) are a series of activities that are performed 
 ### Engineering Design for Assistive Technology
 The two videos below are from former UW-Stout Rehabilitation Engineer, Meghan Donahue.
 
-Part 1: The engineering design process and its intersection with the design of assistive technology.
+**Part 1: The engineering design process and its intersection with the design of assistive technology.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sCt3C6R1O44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Part 2: Specific ideas for identifying needs within assistive technology to help motivate selection of a project.
+**Part 2: Specific ideas for identifying needs within assistive technology to help motivate selection of a project.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Upd-xVlLdDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
