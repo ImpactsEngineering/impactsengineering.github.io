@@ -55,3 +55,17 @@ A [stepper motor is a motor that provides more precision in rotation](http://www
 ![Photo of a stepper motor](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nema_17_Stepper_Motor.jpg/320px-Nema_17_Stepper_Motor.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyqwLiowZiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Arduino Resources
+As you dig into using your Arduino and explore its functionality, make sure you are making use of the ample online resources. Here are some to get you started.
+
+* [Arduino programming reference](https://www.arduino.cc/reference/en/)
+* [Arduino programming book [PDF]](https://playground.arduino.cc/uploads/Main/arduino_notebook_v1-1.pdf)
+* [An introductory Arduino tutorial](http://www.ladyada.net/learn/arduino/)
+* [Another introductory tutorial](https://www.makerspaces.com/arduino-uno-tutorial-beginners/)
+
+Also, programming in Arduino is grounded in the programming language C++. Some resources for learning C++ programming.
+
+* [Tutorial 1](https://www.cprogramming.com/tutorial/lesson1.html)
+* [Tutorial 2](http://www.cplusplus.com/doc/tutorial/)
+* [Not all of "programming" is learning to code](https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/) (also includes links to other resources)
