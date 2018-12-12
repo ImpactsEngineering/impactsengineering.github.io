@@ -8,3 +8,4 @@ layout: default
 ## Lab
 - [Lab overview](/lab/lab-overview)
 - [Getting started](/lab/getting-started)
+- [Design project](/lab/design-project)
