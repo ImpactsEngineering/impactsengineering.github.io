@@ -4,7 +4,7 @@ title: Ethical Frameworks
 permalink: lecture/sample-agenda
 ---
 
-# A same semester agenda
+# A sample semester agenda
 
 | Week | Topic                                  |
 |------|----------------------------------------|
