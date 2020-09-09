@@ -28,5 +28,3 @@ For each of Parts 1-5, please make sure you do the following:
 ## Phase 2: Design Project
 
 The course project is intended to supplement and reinforce the topics that are discussed in lecture and to give you a real-world experience carrying out the engineering design process. Through this project experience you will have the opportunity to learn about electrical and mechanical design using a lab kit. You will participate in user-centered design which means you need to consider not only the technical requirements of the project but the environmental, social, and ethical implications of your design.
-
-More details provided on the [Design Project page](/lab/design-project).
